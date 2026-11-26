@@ -1,0 +1,6 @@
+{
+  "name": "Office Admin Assistant Services",
+  "description": "Professional, reliable, and affordable office administrative assistant services including data entry, MS Word, MS Excel, PDF conversion, document formatting, and virtual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
